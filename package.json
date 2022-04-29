@@ -2,7 +2,7 @@
   "name": "gpt3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DamianT325.github.io/gpt3web",
+  "homepage": "https://damiant325.github.io/gpt3web",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -48,5 +48,4 @@
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0"
   }
-  
 }
